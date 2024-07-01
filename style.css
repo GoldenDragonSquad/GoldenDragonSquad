@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+    background-color: magenta;
+}
+h1{
+    color: turquoise;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: darkblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: seagreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    color: darkred;
+    text-align: center;
+    align-self: center;
+    
+    
+}
